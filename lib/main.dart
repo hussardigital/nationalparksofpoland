@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.green,
       ),
-      home: MyHomePage(title: 'Natioal Parks of Poland'),
+      home: MyHomePage(title: 'National Parks of Poland'),
     );
   }
 }
